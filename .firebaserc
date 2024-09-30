@@ -5,7 +5,7 @@
       "public": "dist",  
       "rewrites": [
         {
-          "source": "/portafolio/**",
+          "source": "/upcoming/**",
           "destination": "/portafolio/index.html"
         }
       ]
