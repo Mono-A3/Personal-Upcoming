@@ -1,5 +1,14 @@
 {
-  "projects": {
-    "default": "personal-upcoming"
-  }
+  "hosting": [
+    {
+      "target": "default",
+      "public": "dist",  
+      "rewrites": [
+        {
+          "source": "/portafolio/**",
+          "destination": "/portafolio/index.html"
+        }
+      ]
+    }
+  ]
 }
