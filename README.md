@@ -4,7 +4,7 @@
 
 ## Descripción
 
-"Personal-Upcoming" es una landing page minimalista y atractiva que comunica a los usuarios que algo emocionante está en camino. Utiliza un estilo de videojuegos retro y está optimizada para dispositivos móviles.
+Landing page minimalista que comunica visualmente el lanzamiento próximo de un proyecto. Desarrollada con Astro, HTML, CSS y JavaScript, incorpora un diseño inspirado en videojuegos retro. Su estructura optimiza el rendimiento y está pensada para alojarse como sitio estático sin necesidad de backend.
 
 ## Funcionalidades
 
